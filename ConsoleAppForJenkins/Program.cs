@@ -10,7 +10,7 @@ namespace ConsoleAppForJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi Hello");
+            Console.WriteLine("Hi Hello")
         }
     }
 }
